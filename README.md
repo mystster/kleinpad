@@ -1,2 +1,2 @@
 # kleinpad
-This is a small number of keys self-made keyboard designed by mystster
+This is a small, self-made keyboard with a limited number of keys, designed by mystster.
