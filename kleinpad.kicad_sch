@@ -2784,19 +2784,7 @@
 		)
 	)
 	(junction
-		(at 246.38 67.31)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "01a46c62-a54d-4a83-8119-cdc198b49dfc")
-	)
-	(junction
-		(at 246.38 87.63)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "023c0783-058e-4b3c-8cf1-b39129e4ab60")
-	)
-	(junction
-		(at 187.96 59.69)
+		(at 153.67 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "02588e33-b36b-406d-ac38-066a22444868")
@@ -2808,136 +2796,86 @@
 		(uuid "12a9d78c-41f6-49e8-a753-4171148fe5d4")
 	)
 	(junction
-		(at 228.6 80.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2ac0a549-c0a1-409e-a938-ea463c59acb6")
-	)
-	(junction
-		(at 58.42 74.93)
+		(at 39.37 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3117ba3e-08bb-403c-87f6-b357f582524f")
 	)
 	(junction
-		(at 17.78 31.75)
+		(at 22.86 31.75)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "41ab6f64-db83-40d8-b027-dd54ee8b4391")
 	)
 	(junction
-		(at 198.12 107.95)
+		(at 204.47 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "555a256b-c5a8-4beb-9c55-6d6d7c74bd5a")
+		(uuid "53cf7227-3b5a-4e49-8f49-b30610c3f4a6")
 	)
 	(junction
-		(at 17.78 34.29)
+		(at 22.86 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5628b8f9-af81-4e32-8796-d29162d6d96f")
 	)
 	(junction
-		(at 218.44 87.63)
+		(at 204.47 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "64c25df0-d1ef-479c-9ddc-d8afeb6ae52f")
+	)
+	(junction
+		(at 184.15 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "71398430-a46c-4ae1-b51f-7a5aec9a67fb")
 	)
 	(junction
-		(at 198.12 67.31)
+		(at 163.83 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "73c0576c-11b4-47fa-af08-9d78eb826d1b")
 	)
 	(junction
-		(at 167.64 59.69)
+		(at 214.63 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "7830fca1-4ee5-466b-bace-6460e152e0e7")
+		(uuid "8474ed9f-9b98-4d0f-8543-60255366807a")
 	)
 	(junction
-		(at 187.96 80.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "790943ea-71cb-4bb7-9815-085ecd4ca7cb")
-	)
-	(junction
-		(at 228.6 59.69)
+		(at 194.31 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "89220313-9566-453d-92ba-0d275ea16d10")
 	)
 	(junction
-		(at 218.44 107.95)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8db5c6f2-a047-4421-b8fd-bd6668b56342")
-	)
-	(junction
-		(at 208.28 80.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a2473c56-5ce1-4cb0-ad3c-b30d2d2de733")
-	)
-	(junction
-		(at 58.42 77.47)
+		(at 39.37 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a7475c57-0651-4908-a1fe-7b686130dede")
 	)
 	(junction
-		(at 177.8 87.63)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a8597aff-b4ae-4b35-95ab-dedfe625e9b9")
-	)
-	(junction
-		(at 167.64 80.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b589ee10-38d3-4177-b4a7-5a36f09eedfd")
-	)
-	(junction
-		(at 177.8 107.95)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b804a8ae-4f33-440d-bd12-4558bc3e74b3")
-	)
-	(junction
-		(at 218.44 67.31)
+		(at 184.15 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cdb86265-ab34-475f-acb5-06312ba8c196")
 	)
 	(junction
-		(at 177.8 67.31)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "db235720-0c89-4bcd-b0cc-fb47319cbd59")
-	)
-	(junction
-		(at 208.28 59.69)
+		(at 173.99 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e609c287-0e4d-4a0f-8524-938fe8454731")
 	)
 	(junction
-		(at 198.12 87.63)
+		(at 163.83 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fedee144-5899-4960-8deb-93fc1931d425")
 	)
 	(no_connect
-		(at 34.29 52.07)
-		(uuid "2454c6b9-13de-4573-99ec-516987567cb3")
-	)
-	(no_connect
 		(at 48.26 59.69)
 		(uuid "ad9fcd36-9244-401e-a596-c2ce7dbf9a9b")
-	)
-	(no_connect
-		(at 34.29 54.61)
-		(uuid "c3045754-4421-4a2b-929a-f51b14601369")
 	)
 	(no_connect
 		(at 50.8 59.69)
@@ -2947,9 +2885,13 @@
 		(at 53.34 59.69)
 		(uuid "f3363af6-b49c-4608-999d-29b851b9815d")
 	)
+	(no_connect
+		(at 72.39 41.91)
+		(uuid "fdc2d0dd-37c5-4d2a-a740-87208dd42a01")
+	)
 	(wire
 		(pts
-			(xy 218.44 67.31) (xy 238.76 67.31)
+			(xy 184.15 50.8) (xy 204.47 50.8)
 		)
 		(stroke
 			(width 0)
@@ -2959,7 +2901,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 44.45) (xy 228.6 59.69)
+			(xy 194.31 27.94) (xy 194.31 43.18)
 		)
 		(stroke
 			(width 0)
@@ -2969,7 +2911,17 @@
 	)
 	(wire
 		(pts
-			(xy 17.78 24.13) (xy 34.29 24.13)
+			(xy 143.51 71.12) (xy 163.83 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "22bf34b4-8b52-4aee-b4f7-89ac5082dbe6")
+	)
+	(wire
+		(pts
+			(xy 22.86 24.13) (xy 34.29 24.13)
 		)
 		(stroke
 			(width 0)
@@ -2979,7 +2931,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 59.69) (xy 187.96 80.01)
+			(xy 153.67 43.18) (xy 153.67 63.5)
 		)
 		(stroke
 			(width 0)
@@ -2989,7 +2941,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 77.47) (xy 58.42 77.47)
+			(xy 30.48 71.12) (xy 39.37 71.12)
 		)
 		(stroke
 			(width 0)
@@ -2999,17 +2951,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 107.95) (xy 177.8 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3b40eaf5-15c7-4c56-86d8-39ce3061a0e0")
-	)
-	(wire
-		(pts
-			(xy 208.28 59.69) (xy 208.28 80.01)
+			(xy 173.99 43.18) (xy 173.99 63.5)
 		)
 		(stroke
 			(width 0)
@@ -3019,23 +2961,13 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 87.63) (xy 238.76 87.63)
+			(xy 184.15 71.12) (xy 204.47 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "4b72d3b9-a100-4329-b161-a8a061649604")
-	)
-	(wire
-		(pts
-			(xy 157.48 67.31) (xy 177.8 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "53680c05-b3b9-4bd0-ad22-74433d2b3d69")
 	)
 	(wire
 		(pts
@@ -3059,17 +2991,27 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 107.95) (xy 198.12 107.95)
+			(xy 204.47 50.8) (xy 224.79 50.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "604f806c-a139-48f5-9ece-0ef8db7016ca")
+		(uuid "5f11a4cb-f53f-4f41-b902-397a2a8453d5")
 	)
 	(wire
 		(pts
-			(xy 17.78 31.75) (xy 34.29 31.75)
+			(xy 214.63 43.18) (xy 214.63 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ae568af-80b9-4ec8-a864-7664c9292521")
+	)
+	(wire
+		(pts
+			(xy 22.86 31.75) (xy 34.29 31.75)
 		)
 		(stroke
 			(width 0)
@@ -3079,27 +3021,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 80.01) (xy 167.64 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "72662bd2-f78d-4f84-9251-086596f7fa5d")
-	)
-	(wire
-		(pts
-			(xy 208.28 80.01) (xy 208.28 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "81785e4e-bae1-4de0-a005-9d6afe8938b7")
-	)
-	(wire
-		(pts
-			(xy 187.96 44.45) (xy 187.96 59.69)
+			(xy 153.67 27.94) (xy 153.67 43.18)
 		)
 		(stroke
 			(width 0)
@@ -3109,7 +3031,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 60.96) (xy 109.22 60.96)
+			(xy 100.33 33.02) (xy 111.76 33.02)
 		)
 		(stroke
 			(width 0)
@@ -3119,37 +3041,17 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 44.45) (xy 167.64 59.69)
+			(xy 204.47 71.12) (xy 226.06 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "90dfe757-1725-4ae7-ae5e-9a5a42a4904a")
+		(uuid "947ba196-ec02-4000-bdb8-6ed1e643200a")
 	)
 	(wire
 		(pts
-			(xy 198.12 107.95) (xy 218.44 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "91362924-5367-46be-bd0c-7d33b1a7b951")
-	)
-	(wire
-		(pts
-			(xy 157.48 59.69) (xy 167.64 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "941775fe-7f63-4165-a790-61b4144cbc1f")
-	)
-	(wire
-		(pts
-			(xy 198.12 87.63) (xy 218.44 87.63)
+			(xy 163.83 71.12) (xy 184.15 71.12)
 		)
 		(stroke
 			(width 0)
@@ -3159,37 +3061,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 80.01) (xy 187.96 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9bdb41b5-c6aa-46fd-96e2-45ab71f68a83")
-	)
-	(wire
-		(pts
-			(xy 218.44 107.95) (xy 238.76 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9f4a49d7-1233-4200-9b30-8655712f16a7")
-	)
-	(wire
-		(pts
-			(xy 157.48 87.63) (xy 177.8 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9f5ea0fa-f635-4d32-9f9a-1d91ada0b4cd")
-	)
-	(wire
-		(pts
-			(xy 97.79 66.04) (xy 109.22 66.04)
+			(xy 100.33 38.1) (xy 111.76 38.1)
 		)
 		(stroke
 			(width 0)
@@ -3199,7 +3071,17 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 74.93) (xy 58.42 74.93)
+			(xy 214.63 27.94) (xy 214.63 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a7a32772-c796-4011-801a-4c1e023f5209")
+	)
+	(wire
+		(pts
+			(xy 30.48 68.58) (xy 39.37 68.58)
 		)
 		(stroke
 			(width 0)
@@ -3209,37 +3091,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 80.01) (xy 228.6 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ac9fd75d-9b70-4827-806b-ee9395a0514e")
-	)
-	(wire
-		(pts
-			(xy 198.12 100.33) (xy 208.28 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ad91d345-b9a6-4067-ae90-5c0d329fb56a")
-	)
-	(wire
-		(pts
-			(xy 246.38 44.45) (xy 246.38 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b2982575-ef2f-4622-b3d1-87d907d5181b")
-	)
-	(wire
-		(pts
-			(xy 17.78 34.29) (xy 34.29 34.29)
+			(xy 22.86 34.29) (xy 34.29 34.29)
 		)
 		(stroke
 			(width 0)
@@ -3249,7 +3101,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 67.31) (xy 198.12 67.31)
+			(xy 143.51 50.8) (xy 163.83 50.8)
 		)
 		(stroke
 			(width 0)
@@ -3259,17 +3111,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 87.63) (xy 246.38 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ba67037c-8166-442a-ac6c-f0f5d57778c4")
-	)
-	(wire
-		(pts
-			(xy 208.28 44.45) (xy 208.28 59.69)
+			(xy 173.99 27.94) (xy 173.99 43.18)
 		)
 		(stroke
 			(width 0)
@@ -3286,26 +3128,6 @@
 			(type default)
 		)
 		(uuid "cea17103-ace2-46e2-9b85-0752f7b06abd")
-	)
-	(wire
-		(pts
-			(xy 246.38 67.31) (xy 246.38 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d00dcc5a-bce3-4a2d-bc21-4ea41a141fb3")
-	)
-	(wire
-		(pts
-			(xy 167.64 59.69) (xy 167.64 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d32f7044-2978-49d3-a568-68e3d7ae2529")
 	)
 	(wire
 		(pts
@@ -3329,17 +3151,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 80.01) (xy 187.96 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d9bd42b6-1376-48c5-ac3c-c1d974e07460")
-	)
-	(wire
-		(pts
-			(xy 198.12 67.31) (xy 218.44 67.31)
+			(xy 163.83 50.8) (xy 184.15 50.8)
 		)
 		(stroke
 			(width 0)
@@ -3349,7 +3161,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 59.69) (xy 228.6 80.01)
+			(xy 194.31 43.18) (xy 194.31 63.5)
 		)
 		(stroke
 			(width 0)
@@ -3359,17 +3171,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 87.63) (xy 198.12 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f691cce9-917e-4db9-aea2-36a114bd063a")
-	)
-	(wire
-		(pts
-			(xy 17.78 31.75) (xy 17.78 24.13)
+			(xy 22.86 31.75) (xy 22.86 24.13)
 		)
 		(stroke
 			(width 0)
@@ -3379,7 +3181,7 @@
 	)
 	(wire
 		(pts
-			(xy 17.78 34.29) (xy 17.78 31.75)
+			(xy 22.86 34.29) (xy 22.86 31.75)
 		)
 		(stroke
 			(width 0)
@@ -3411,7 +3213,7 @@
 	)
 	(global_label "LED_B"
 		(shape output)
-		(at 118.11 38.1 0)
+		(at 245.11 44.45 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3421,7 +3223,7 @@
 		)
 		(uuid "0d910967-a8fe-45aa-bdf5-b99d5b0d198a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 126.7799 38.1 0)
+			(at 253.7799 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3433,7 +3235,7 @@
 	)
 	(global_label "RE_A"
 		(shape output)
-		(at 97.79 60.96 180)
+		(at 100.33 33.02 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3443,7 +3245,7 @@
 		)
 		(uuid "1b4b59db-8dcb-4199-8c81-83d35b749ee1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 90.3296 60.96 0)
+			(at 92.8696 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3453,9 +3255,9 @@
 			)
 		)
 	)
-	(global_label "LED_R"
-		(shape output)
-		(at 72.39 49.53 0)
+	(global_label "COL_4"
+		(shape bidirectional)
+		(at 214.63 27.94 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3463,14 +3265,102 @@
 			)
 			(justify left)
 		)
-		(uuid "4f402f3f-f6ef-44aa-9e45-5f3ddcb1d412")
+		(uuid "3671e2a8-9c72-4f07-8667-bb3aac281ee3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 81.0599 49.53 0)
+			(at 214.63 18.0378 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL_4"
+		(shape bidirectional)
+		(at 72.39 44.45 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3bdf7b2a-0d53-4cef-a8d9-17f340e2e771")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 82.2922 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ROW_2"
+		(shape bidirectional)
+		(at 226.06 71.12 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "43d668ac-bbd7-4951-8563-a411a32bf394")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 236.3855 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ROW_1"
+		(shape bidirectional)
+		(at 224.79 50.8 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "49fbb1d3-0f68-4146-a1b6-4f8b7fff9c4d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 235.1155 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "LED_R"
+		(shape output)
+		(at 34.29 49.53 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4f402f3f-f6ef-44aa-9e45-5f3ddcb1d412")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 25.6201 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -3497,9 +3387,9 @@
 			)
 		)
 	)
-	(global_label "IO 0"
+	(global_label "COL_1"
 		(shape bidirectional)
-		(at 72.39 36.83 0)
+		(at 72.39 52.07 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3509,7 +3399,7 @@
 		)
 		(uuid "610c4921-edbb-4225-a1f6-0438afc5819a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 80.5989 36.83 0)
+			(at 82.2922 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3521,7 +3411,7 @@
 	)
 	(global_label "MOSI"
 		(shape input)
-		(at 34.29 104.14 180)
+		(at 60.96 83.82 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3531,7 +3421,7 @@
 		)
 		(uuid "632bfd1b-ee48-4173-925d-8e0175cd58e9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 26.7086 104.14 0)
+			(at 53.3786 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3543,7 +3433,7 @@
 	)
 	(global_label "LED_R"
 		(shape output)
-		(at 118.11 27.94 0)
+		(at 245.11 34.29 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3553,7 +3443,7 @@
 		)
 		(uuid "65d7bfbc-f74c-43cd-91d7-590b538d66ea")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 126.7799 27.94 0)
+			(at 253.7799 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3565,61 +3455,17 @@
 	)
 	(global_label "LED_G"
 		(shape output)
-		(at 72.39 52.07 0)
+		(at 34.29 52.07 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "6f1916d0-e6c7-4c76-ad08-b9fd3fd52ba8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 81.0599 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "RE_SW"
-		(shape output)
-		(at 124.46 60.96 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "7ce9b41d-3292-4254-8fcc-02d6f4646152")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 133.4927 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "IO 2"
-		(shape bidirectional)
-		(at 208.28 44.45 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "7ed3bc0d-4239-44cd-94cc-fc319147485c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 208.28 36.3205 90)
+			(at 25.6201 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3629,9 +3475,53 @@
 			)
 		)
 	)
+	(global_label "RE_SW"
+		(shape output)
+		(at 127 33.02 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7ce9b41d-3292-4254-8fcc-02d6f4646152")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 136.0327 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL_2"
+		(shape bidirectional)
+		(at 173.99 27.94 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7ed3bc0d-4239-44cd-94cc-fc319147485c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 173.99 18.0378 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "SCK"
 		(shape input)
-		(at 34.29 99.06 180)
+		(at 60.96 78.74 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3641,7 +3531,7 @@
 		)
 		(uuid "7ee779b9-9ae5-4755-b4bf-afe0e4fa621e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 27.5553 99.06 0)
+			(at 54.2253 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3697,7 +3587,7 @@
 	)
 	(global_label "3V3"
 		(shape input)
-		(at 86.36 97.79 180)
+		(at 92.71 72.39 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3707,7 +3597,7 @@
 		)
 		(uuid "8f687832-1917-4153-8df0-83c361e2f04b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 79.8672 97.79 0)
+			(at 86.2172 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3717,9 +3607,9 @@
 			)
 		)
 	)
-	(global_label "IO 1"
+	(global_label "COL_1"
 		(shape bidirectional)
-		(at 187.96 44.45 90)
+		(at 153.67 27.94 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3729,19 +3619,19 @@
 		)
 		(uuid "90494c8f-e57b-4931-806b-755b3e94300a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 187.96 36.3205 90)
+			(at 153.67 18.0378 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
 	)
 	(global_label "3V3"
 		(shape input)
-		(at 34.29 106.68 180)
+		(at 60.96 86.36 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3751,29 +3641,7 @@
 		)
 		(uuid "9359357a-3b1e-46af-8807-e1590d69e1d4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 27.7972 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "IO 0"
-		(shape bidirectional)
-		(at 167.64 44.45 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "95ff2b6d-1db9-420d-8533-4bcad8a149d6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 167.64 36.3205 90)
+			(at 54.4672 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3785,7 +3653,7 @@
 	)
 	(global_label "SDA"
 		(shape bidirectional)
-		(at 86.36 90.17 180)
+		(at 92.71 64.77 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3795,7 +3663,7 @@
 		)
 		(uuid "96391b34-5d0b-4ee9-91aa-06ccf8e3399a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 78.6954 90.17 0)
+			(at 85.0454 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3829,7 +3697,7 @@
 	)
 	(global_label "RE_B"
 		(shape output)
-		(at 97.79 66.04 180)
+		(at 100.33 38.1 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3839,7 +3707,7 @@
 		)
 		(uuid "9d2eb5e3-5926-424e-ad2f-a77460d5fcb1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 90.1482 66.04 0)
+			(at 92.6882 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3873,7 +3741,7 @@
 	)
 	(global_label "LED_G"
 		(shape output)
-		(at 118.11 33.02 0)
+		(at 245.11 39.37 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3883,29 +3751,7 @@
 		)
 		(uuid "b18f539f-aa37-41cb-8d7d-7b435089110f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 126.7799 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "INTR"
-		(shape bidirectional)
-		(at 246.38 44.45 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "b4087f7f-7ea1-419c-9580-2bc72584ce42")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 254.57 44.45 0)
+			(at 253.7799 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3917,7 +3763,7 @@
 	)
 	(global_label "MISO"
 		(shape output)
-		(at 34.29 101.6 180)
+		(at 60.96 81.28 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3927,7 +3773,7 @@
 		)
 		(uuid "b70c21a2-928f-42a8-9765-80a367e3d16f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 26.7086 101.6 0)
+			(at 53.3786 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3939,22 +3785,22 @@
 	)
 	(global_label "LED_B"
 		(shape output)
-		(at 72.39 54.61 0)
+		(at 34.29 54.61 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "bc676eb5-0a0e-4076-aa7e-dffbb022255a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 81.0599 54.61 0)
+			(at 25.6201 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -4003,9 +3849,9 @@
 			)
 		)
 	)
-	(global_label "IO 3"
+	(global_label "COL_3"
 		(shape bidirectional)
-		(at 228.6 44.45 90)
+		(at 194.31 27.94 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4015,12 +3861,12 @@
 		)
 		(uuid "d9eded2b-9ca1-4434-9d35-76241fe5e742")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 228.6 36.3205 90)
+			(at 194.31 18.0378 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -4071,7 +3917,7 @@
 	)
 	(global_label "SCL"
 		(shape input)
-		(at 86.36 93.98 180)
+		(at 92.71 68.58 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4081,7 +3927,7 @@
 		)
 		(uuid "f2476120-5d52-440b-9627-03bc6a7f4bbd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 79.8672 93.98 0)
+			(at 86.2172 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4091,51 +3937,7 @@
 			)
 		)
 	)
-	(global_label "INTR"
-		(shape bidirectional)
-		(at 72.39 46.99 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "f2752f84-939c-4394-b8fa-6ddeca88e94f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 80.6594 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "IO 3"
-		(shape bidirectional)
-		(at 72.39 44.45 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "f5f0cedd-0a1c-4325-89e5-0ae4b28da067")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 80.5989 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "IO 1"
+	(global_label "ROW_2"
 		(shape bidirectional)
 		(at 72.39 39.37 0)
 		(fields_autoplaced yes)
@@ -4145,9 +3947,53 @@
 			)
 			(justify left)
 		)
+		(uuid "f2752f84-939c-4394-b8fa-6ddeca88e94f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 82.7155 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ROW_1"
+		(shape bidirectional)
+		(at 72.39 36.83 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f5f0cedd-0a1c-4325-89e5-0ae4b28da067")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 82.7155 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL_2"
+		(shape bidirectional)
+		(at 72.39 49.53 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
 		(uuid "f633e5d8-c610-469a-9fde-89de746adb27")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 80.5989 39.37 0)
+			(at 82.2922 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4159,29 +4005,29 @@
 	)
 	(global_label "RE_SW"
 		(shape input)
-		(at 34.29 49.53 180)
+		(at 72.39 54.61 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "f9e8b062-3c08-435f-ae18-8f5a446d2b95")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 25.2573 49.53 0)
+			(at 81.4227 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
 	)
-	(global_label "IO 2"
+	(global_label "COL_3"
 		(shape bidirectional)
-		(at 72.39 41.91 0)
+		(at 72.39 46.99 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4191,7 +4037,7 @@
 		)
 		(uuid "ff079732-7246-458f-96f8-82beb539490e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 80.5989 41.91 0)
+			(at 82.2922 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4203,98 +4049,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 157.48 83.82 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "039284f9-c186-458f-a3c3-9583d118d3a5")
-		(property "Reference" "D6"
-			(at 154.94 83.185 90)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 154.94 85.725 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "kbd:D3_TH_SMD_v2"
-			(at 157.48 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 157.48 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 157.48 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 157.48 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 157.48 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fda5f417-0c95-4384-9cfa-fd831d692886")
-		)
-		(pin "2"
-			(uuid "19dba144-2357-4fbd-ae42-ddbf28214051")
-		)
-		(instances
-			(project "kleinpad"
-				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "D6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148")
-		(at 198.12 83.82 270)
+		(at 163.83 67.31 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4303,8 +4058,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "053262d7-99a4-462d-b1ef-5f6c1b875246")
-		(property "Reference" "D27"
-			(at 195.58 83.185 90)
+		(property "Reference" "D4"
+			(at 161.29 66.675 90)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -4314,7 +4069,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 195.58 85.725 90)
+			(at 161.29 69.215 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4323,8 +4078,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "kbd:D3_TH_SMD_v2"
-			(at 198.12 83.82 0)
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+			(at 163.83 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4333,7 +4088,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 198.12 83.82 0)
+			(at 163.83 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4342,7 +4097,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 198.12 83.82 0)
+			(at 163.83 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4351,7 +4106,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 198.12 83.82 0)
+			(at 163.83 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4360,7 +4115,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 198.12 83.82 0)
+			(at 163.83 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4377,7 +4132,7 @@
 		(instances
 			(project "kleinpad"
 				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "D27")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -4385,7 +4140,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 58.42 77.47 0)
+		(at 39.37 71.12 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4393,8 +4148,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "063ad311-493a-43f5-ab79-f7cdc6d88c8f")
-		(property "Reference" "#PWR07"
-			(at 58.42 83.82 0)
+		(property "Reference" "#PWR03"
+			(at 39.37 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4403,7 +4158,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 58.42 82.55 0)
+			(at 39.37 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4411,7 +4166,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 58.42 77.47 0)
+			(at 39.37 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4420,7 +4175,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 58.42 77.47 0)
+			(at 39.37 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4429,7 +4184,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 58.42 77.47 0)
+			(at 39.37 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4443,7 +4198,98 @@
 		(instances
 			(project "kleinpad"
 				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "#PWR07")
+					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
+		(at 204.47 46.99 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0b7bc691-70aa-4e08-a4e3-8c0e0307eb75")
+		(property "Reference" "D7"
+			(at 201.93 46.355 90)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 201.93 48.895 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+			(at 204.47 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 204.47 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 204.47 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 204.47 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 204.47 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c78646a3-4ae8-4ba1-b3c2-db32cc03f8a8")
+		)
+		(pin "2"
+			(uuid "5fec1648-78d4-4340-adc9-44ab3c9b2a1d")
+		)
+		(instances
+			(project "kleinpad"
+				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -4451,7 +4297,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 63.5 74.93 0)
+		(at 44.45 68.58 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4460,7 +4306,7 @@
 		(fields_autoplaced yes)
 		(uuid "167a4164-78a0-47f5-8b42-e1441d071367")
 		(property "Reference" "J1"
-			(at 66.04 74.9299 0)
+			(at 46.99 68.5799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4469,7 +4315,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 66.04 77.4699 0)
+			(at 46.99 71.1199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4477,8 +4323,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 63.5 74.93 0)
+		(property "Footprint" "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal"
+			(at 44.45 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4487,7 +4333,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 63.5 74.93 0)
+			(at 44.45 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4496,7 +4342,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 63.5 74.93 0)
+			(at 44.45 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4520,8 +4366,79 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 209.55 43.18 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "185d8a94-a897-42cd-80fd-f64aa63ab04c")
+		(property "Reference" "RC4-1"
+			(at 209.55 36.83 0)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 209.55 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "kbd_SW_PCBA:MX_Choc_v1v2_Hotswap_1u"
+			(at 209.55 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 209.55 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 209.55 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0021cd95-681f-4bd8-be9b-49126bd73276")
+		)
+		(pin "2"
+			(uuid "431b1d52-3363-4b87-b5de-2bbb62e33cb9")
+		)
+		(instances
+			(project "kleinpad"
+				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
+					(reference "RC4-1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
-		(at 97.79 53.34 180)
+		(at 100.33 25.4 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4529,8 +4446,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "20931d44-3232-4536-8a8d-90fbed50f6cd")
-		(property "Reference" "#PWR011"
-			(at 97.79 46.99 0)
+		(property "Reference" "#PWR09"
+			(at 100.33 19.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4539,7 +4456,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 97.79 48.26 0)
+			(at 100.33 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4547,7 +4464,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 97.79 53.34 0)
+			(at 100.33 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4556,7 +4473,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 97.79 53.34 0)
+			(at 100.33 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4565,7 +4482,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 97.79 53.34 0)
+			(at 100.33 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4579,7 +4496,7 @@
 		(instances
 			(project "kleinpad"
 				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "#PWR011")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -4587,7 +4504,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 182.88 59.69 0)
+		(at 148.59 43.18 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4597,7 +4514,7 @@
 		(fields_autoplaced yes)
 		(uuid "21ed5053-57e5-471e-81ff-56e7c1af366e")
 		(property "Reference" "RC1-1"
-			(at 182.88 53.34 0)
+			(at 148.59 36.83 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -4606,7 +4523,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 182.88 55.88 0)
+			(at 148.59 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4614,8 +4531,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
-			(at 182.88 54.61 0)
+		(property "Footprint" "kbd_SW_PCBA:MX_Choc_v1v2_Hotswap_1u"
+			(at 148.59 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4624,7 +4541,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 182.88 54.61 0)
+			(at 148.59 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4633,7 +4550,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 182.88 59.69 0)
+			(at 148.59 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4658,78 +4575,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 182.88 100.33 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2357685f-d1f8-4623-9b26-95e7dbd60427")
-		(property "Reference" "RC1-6"
-			(at 182.88 93.98 0)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 182.88 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 182.88 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 182.88 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 182.88 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8ec8e7cd-1d83-4c1f-86ac-fd6003b2949a")
-		)
-		(pin "2"
-			(uuid "24a2b51d-79df-46ed-bed6-ccaf15f64e2b")
-		)
-		(instances
-			(project "kleinpad"
-				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "RC1-6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 203.2 80.01 0)
+		(at 168.91 63.5 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4738,8 +4584,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3599b428-94cd-45b3-9ddb-e389d34592af")
-		(property "Reference" "RC2-6"
-			(at 203.2 73.66 0)
+		(property "Reference" "RC2-2"
+			(at 168.91 57.15 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -4748,7 +4594,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 203.2 76.2 0)
+			(at 168.91 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4756,8 +4602,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
-			(at 203.2 74.93 0)
+		(property "Footprint" "kbd_SW_PCBA:MX_Choc_v1v2_Hotswap_1u"
+			(at 168.91 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4766,7 +4612,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 203.2 74.93 0)
+			(at 168.91 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4775,7 +4621,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 203.2 80.01 0)
+			(at 168.91 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4792,7 +4638,7 @@
 		(instances
 			(project "kleinpad"
 				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "RC2-6")
+					(reference "RC2-2")
 					(unit 1)
 				)
 			)
@@ -4800,7 +4646,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 218.44 63.5 270)
+		(at 184.15 46.99 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4809,8 +4655,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "367d8730-0910-4413-a4a0-f801d43e213b")
-		(property "Reference" "D36"
-			(at 215.9 62.865 90)
+		(property "Reference" "D5"
+			(at 181.61 46.355 90)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -4820,7 +4666,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 215.9 65.405 90)
+			(at 181.61 48.895 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4829,8 +4675,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "kbd:D3_TH_SMD_v2"
-			(at 218.44 63.5 0)
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+			(at 184.15 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4839,7 +4685,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 218.44 63.5 0)
+			(at 184.15 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4848,7 +4694,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 218.44 63.5 0)
+			(at 184.15 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4857,7 +4703,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 218.44 63.5 0)
+			(at 184.15 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4866,7 +4712,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 218.44 63.5 0)
+			(at 184.15 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4883,98 +4729,7 @@
 		(instances
 			(project "kleinpad"
 				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "D36")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148")
-		(at 198.12 104.14 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "36884620-7bb4-43c7-8ee0-422724ef9b2b")
-		(property "Reference" "DS8"
-			(at 200.66 104.775 90)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 200.66 102.235 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "kbd:D3_TH_SMD_v2"
-			(at 198.12 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 198.12 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 198.12 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 198.12 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 198.12 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1f7349ae-ebe3-4db1-a26e-390528d77581")
-		)
-		(pin "2"
-			(uuid "b252d46a-8665-44e5-8aea-4e564ea3650b")
-		)
-		(instances
-			(project "kleinpad"
-				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "DS8")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -4982,7 +4737,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 223.52 59.69 0)
+		(at 189.23 43.18 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4991,8 +4746,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "39646414-72ba-43fd-84a7-5c9eb03181c8")
-		(property "Reference" "RC3-3"
-			(at 223.52 53.34 0)
+		(property "Reference" "RC3-1"
+			(at 189.23 36.83 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -5001,7 +4756,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 223.52 55.88 0)
+			(at 189.23 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5009,8 +4764,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
-			(at 223.52 54.61 0)
+		(property "Footprint" "kbd_SW_PCBA:MX_Choc_v1v2_Hotswap_1u"
+			(at 189.23 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5019,7 +4774,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 223.52 54.61 0)
+			(at 189.23 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5028,7 +4783,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 223.52 59.69 0)
+			(at 189.23 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5045,7 +4800,7 @@
 		(instances
 			(project "kleinpad"
 				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "RC3-3")
+					(reference "RC3-1")
 					(unit 1)
 				)
 			)
@@ -5053,7 +4808,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 34.29 109.22 0)
+		(at 60.96 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5061,8 +4816,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "39876f0b-f4f5-44ff-ac33-dc320549700b")
-		(property "Reference" "#PWR015"
-			(at 34.29 115.57 0)
+		(property "Reference" "#PWR05"
+			(at 60.96 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5071,7 +4826,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 34.29 114.3 0)
+			(at 60.96 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5079,7 +4834,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 34.29 109.22 0)
+			(at 60.96 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5088,7 +4843,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 34.29 109.22 0)
+			(at 60.96 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5097,7 +4852,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 34.29 109.22 0)
+			(at 60.96 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5111,7 +4866,7 @@
 		(instances
 			(project "kleinpad"
 				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "#PWR015")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -5119,7 +4874,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 124.46 66.04 0)
+		(at 127 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5127,8 +4882,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3fd28600-beb6-49c1-a442-236aa1168fa5")
-		(property "Reference" "#PWR02"
-			(at 124.46 72.39 0)
+		(property "Reference" "#PWR012"
+			(at 127 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5137,7 +4892,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 124.46 71.12 0)
+			(at 127 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5145,7 +4900,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 124.46 66.04 0)
+			(at 127 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5154,7 +4909,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 124.46 66.04 0)
+			(at 127 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5163,7 +4918,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 124.46 66.04 0)
+			(at 127 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5177,7 +4932,7 @@
 		(instances
 			(project "kleinpad"
 				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "#PWR02")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -5185,7 +4940,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 162.56 100.33 0)
+		(at 209.55 63.5 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5193,9 +4948,9 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "437b42ed-3949-43db-83c0-d3eb68732aeb")
-		(property "Reference" "RC0-7"
-			(at 162.56 93.98 0)
+		(uuid "461cfe6e-5851-4706-9e57-4dd84a289103")
+		(property "Reference" "RC4-2"
+			(at 209.55 57.15 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -5204,7 +4959,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 162.56 96.52 0)
+			(at 209.55 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5212,8 +4967,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
-			(at 162.56 95.25 0)
+		(property "Footprint" "kbd_SW_PCBA:MX_Choc_v1v2_Hotswap_1u"
+			(at 209.55 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5222,7 +4977,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 162.56 95.25 0)
+			(at 209.55 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5231,7 +4986,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 162.56 100.33 0)
+			(at 209.55 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5240,15 +4995,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "7fe99fe8-4a44-4899-acd4-9929035e8080")
+			(uuid "e0b7a41d-9d89-4152-b56e-00367f584acd")
 		)
 		(pin "2"
-			(uuid "e99d1452-2fb6-4f9e-a539-2cc6f04d91e7")
+			(uuid "77fcbd4a-6193-4c2e-b5aa-b46f2c970b59")
 		)
 		(instances
 			(project "kleinpad"
 				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "RC0-7")
+					(reference "RC4-2")
 					(unit 1)
 				)
 			)
@@ -5256,7 +5011,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 218.44 83.82 270)
+		(at 184.15 67.31 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5265,8 +5020,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "462bd2fa-9201-4b50-a8de-34077df96e5a")
-		(property "Reference" "D37"
-			(at 215.9 83.185 90)
+		(property "Reference" "D6"
+			(at 181.61 66.675 90)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -5276,7 +5031,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 215.9 85.725 90)
+			(at 181.61 69.215 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5285,8 +5040,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "kbd:D3_TH_SMD_v2"
-			(at 218.44 83.82 0)
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+			(at 184.15 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5295,7 +5050,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 218.44 83.82 0)
+			(at 184.15 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5304,7 +5059,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 218.44 83.82 0)
+			(at 184.15 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5313,7 +5068,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 218.44 83.82 0)
+			(at 184.15 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5322,7 +5077,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 218.44 83.82 0)
+			(at 184.15 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5339,7 +5094,7 @@
 		(instances
 			(project "kleinpad"
 				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "D37")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -5347,7 +5102,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 97.79 57.15 0)
+		(at 100.33 29.21 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5356,7 +5111,7 @@
 		(fields_autoplaced yes)
 		(uuid "47b6cd33-2b21-4568-ad05-4338d35afbbf")
 		(property "Reference" "C1"
-			(at 101.6 55.8799 0)
+			(at 104.14 27.9399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5364,8 +5119,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 101.6 58.4199 0)
+		(property "Value" "0.1u"
+			(at 104.14 30.4799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5373,8 +5128,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 98.7552 60.96 0)
+		(property "Footprint" "kbd_Parts:Capacitor_1206"
+			(at 101.2952 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5383,7 +5138,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 97.79 57.15 0)
+			(at 100.33 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5392,7 +5147,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 97.79 57.15 0)
+			(at 100.33 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5416,99 +5171,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N4148")
-		(at 157.48 104.14 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4e0cc023-ff4a-45e2-a58b-2218655c5299")
-		(property "Reference" "D7"
-			(at 154.94 103.505 90)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 154.94 106.045 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "kbd:D3_TH_SMD_v2"
-			(at 157.48 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 157.48 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 157.48 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 157.48 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 157.48 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5254c78e-fc68-4a81-8ef2-a49aa994e27d")
-		)
-		(pin "2"
-			(uuid "ff2fc18b-67c0-4261-bbf1-5d51eb81e938")
-		)
-		(instances
-			(project "kleinpad"
-				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "D7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 203.2 59.69 0)
+		(at 168.91 43.18 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5517,8 +5181,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ef1d651-6903-4862-873e-19e4b2c2a62e")
-		(property "Reference" "RC2-2"
-			(at 203.2 53.34 0)
+		(property "Reference" "RC2-1"
+			(at 168.91 36.83 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -5527,7 +5191,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 203.2 55.88 0)
+			(at 168.91 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5535,8 +5199,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
-			(at 203.2 54.61 0)
+		(property "Footprint" "kbd_SW_PCBA:MX_Choc_v1v2_Hotswap_1u"
+			(at 168.91 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5545,7 +5209,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 203.2 54.61 0)
+			(at 168.91 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5554,7 +5218,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 203.2 59.69 0)
+			(at 168.91 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5571,7 +5235,7 @@
 		(instances
 			(project "kleinpad"
 				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "RC2-2")
+					(reference "RC2-1")
 					(unit 1)
 				)
 			)
@@ -5579,7 +5243,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 97.79 73.66 0)
+		(at 100.33 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5588,7 +5252,7 @@
 		(fields_autoplaced yes)
 		(uuid "5273364a-a7cf-48eb-b63d-d4405dce74a4")
 		(property "Reference" "#PWR010"
-			(at 97.79 80.01 0)
+			(at 100.33 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5597,7 +5261,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 97.79 78.74 0)
+			(at 100.33 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5605,7 +5269,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 97.79 73.66 0)
+			(at 100.33 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5614,7 +5278,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 97.79 73.66 0)
+			(at 100.33 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5623,7 +5287,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 97.79 73.66 0)
+			(at 100.33 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5653,7 +5317,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5c9738f6-e243-4a87-9905-2d2c8e58b9bc")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR07"
 			(at 81.28 35.56 0)
 			(effects
 				(font
@@ -5703,167 +5367,7 @@
 		(instances
 			(project "kleinpad"
 				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "#PWR06")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148")
-		(at 242.57 67.31 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "5e4f32ef-c856-45ab-96ed-81ade5b45d00")
-		(property "Reference" "DI6"
-			(at 242.57 63.5 0)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 244.475 69.85 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "kbd:D3_TH_SMD_v2"
-			(at 242.57 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 242.57 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 242.57 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 242.57 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 242.57 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c9f1a0ac-7742-4d9c-9686-a3b5673a8c87")
-		)
-		(pin "2"
-			(uuid "278034b6-aa92-4650-b242-f4cf6a3a1192")
-		)
-		(instances
-			(project "kleinpad"
-				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "DI6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 162.56 80.01 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5ef61bcc-bc3f-4ae7-9a18-a377cd4d5f54")
-		(property "Reference" "RC0-6"
-			(at 162.56 73.66 0)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 162.56 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 162.56 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 162.56 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 162.56 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7e598ef4-0698-4a08-973f-60791ccdbff7")
-		)
-		(pin "2"
-			(uuid "b197e88e-b397-4a02-86bd-36b7c574ac94")
-		)
-		(instances
-			(project "kleinpad"
-				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "RC0-6")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -5879,7 +5383,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "62bfe4ac-744b-41d7-bb2a-5ed28dccda36")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR06"
 			(at 81.28 27.94 0)
 			(effects
 				(font
@@ -5929,7 +5433,7 @@
 		(instances
 			(project ""
 				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "#PWR04")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -5937,7 +5441,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 223.52 80.01 0)
+		(at 189.23 63.5 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5946,8 +5450,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6352d5d8-f9c9-41a6-9449-3916824f5095")
-		(property "Reference" "RC3-6"
-			(at 223.52 73.66 0)
+		(property "Reference" "RC3-2"
+			(at 189.23 57.15 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -5956,7 +5460,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 223.52 76.2 0)
+			(at 189.23 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5964,8 +5468,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
-			(at 223.52 74.93 0)
+		(property "Footprint" "kbd_SW_PCBA:MX_Choc_v1v2_Hotswap_1u"
+			(at 189.23 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5974,7 +5478,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 223.52 74.93 0)
+			(at 189.23 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5983,7 +5487,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 223.52 80.01 0)
+			(at 189.23 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6000,7 +5504,7 @@
 		(instances
 			(project "kleinpad"
 				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "RC3-6")
+					(reference "RC3-2")
 					(unit 1)
 				)
 			)
@@ -6008,7 +5512,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 97.79 69.85 0)
+		(at 100.33 41.91 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6017,7 +5521,7 @@
 		(fields_autoplaced yes)
 		(uuid "63ba9189-bedb-480c-95b1-7cf1a0ee5fcc")
 		(property "Reference" "C2"
-			(at 101.6 68.5799 0)
+			(at 104.14 40.6399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6025,8 +5529,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 101.6 71.1199 0)
+		(property "Value" "0.1u"
+			(at 104.14 43.1799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6034,8 +5538,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 98.7552 73.66 0)
+		(property "Footprint" "kbd_Parts:Capacitor_1206"
+			(at 101.2952 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6044,7 +5548,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 97.79 69.85 0)
+			(at 100.33 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6053,7 +5557,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 97.79 69.85 0)
+			(at 100.33 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6077,95 +5581,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N4148")
-		(at 242.57 107.95 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "676aa450-2472-4590-b4c9-24db5755a031")
-		(property "Reference" "DI8"
-			(at 242.57 104.14 0)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 244.475 110.49 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "kbd:D3_TH_SMD_v2"
-			(at 242.57 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 242.57 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 242.57 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 242.57 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 242.57 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ab1989d8-1c2d-46ef-96eb-60a8bd79cdcb")
-		)
-		(pin "2"
-			(uuid "ba01412e-abc4-4e6b-a947-0e61ece55218")
-		)
-		(instances
-			(project "kleinpad"
-				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "DI8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 43.18 87.63 0)
 		(unit 1)
@@ -6175,7 +5590,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6804f2f9-a837-4945-989a-84481920c62f")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR04"
 			(at 43.18 93.98 0)
 			(effects
 				(font
@@ -6225,7 +5640,7 @@
 		(instances
 			(project "kleinpad"
 				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "#PWR09")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -6233,7 +5648,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 107.95 33.02 0)
+		(at 234.95 39.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6242,7 +5657,7 @@
 		(fields_autoplaced yes)
 		(uuid "6cbdb4e0-346b-41f6-95a1-ff19ac996914")
 		(property "Reference" "#PWR013"
-			(at 107.95 39.37 0)
+			(at 234.95 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6251,7 +5666,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 107.95 38.1 0)
+			(at 234.95 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6259,7 +5674,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 107.95 33.02 0)
+			(at 234.95 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6268,7 +5683,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 107.95 33.02 0)
+			(at 234.95 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6277,7 +5692,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 107.95 33.02 0)
+			(at 234.95 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6299,7 +5714,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 177.8 63.5 270)
+		(at 143.51 46.99 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6308,8 +5723,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7736aae1-071e-40e6-b311-93b6de907b57")
-		(property "Reference" "D16"
-			(at 175.26 62.865 90)
+		(property "Reference" "D1"
+			(at 140.97 46.355 90)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -6319,7 +5734,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 175.26 65.405 90)
+			(at 140.97 48.895 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6328,8 +5743,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "kbd:D3_TH_SMD_v2"
-			(at 177.8 63.5 0)
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+			(at 143.51 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6338,7 +5753,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 177.8 63.5 0)
+			(at 143.51 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6347,7 +5762,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 177.8 63.5 0)
+			(at 143.51 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6356,7 +5771,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 177.8 63.5 0)
+			(at 143.51 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6365,7 +5780,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 177.8 63.5 0)
+			(at 143.51 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6382,24 +5797,34 @@
 		(instances
 			(project "kleinpad"
 				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "D16")
+					(reference "D1")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 49.53 77.47 180)
+		(lib_id "Switch:SW_Push")
+		(at 148.59 63.5 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "7af282ff-f2e9-402f-a726-b62a2863f52b")
-		(property "Reference" "#FLG02"
-			(at 49.53 79.375 0)
+		(uuid "796df4ea-5958-4bfd-bb95-3c5812203474")
+		(property "Reference" "RC1-2"
+			(at 148.59 57.15 0)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 148.59 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6407,16 +5832,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "PWR_FLAG"
-			(at 49.53 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 49.53 77.47 0)
+		(property "Footprint" "kbd_SW_PCBA:MX_Choc_v1v2_Hotswap_1u"
+			(at 148.59 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6425,7 +5842,76 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 49.53 77.47 0)
+			(at 148.59 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 148.59 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b50b1921-a50a-492e-863f-1c10132ca76b")
+		)
+		(pin "2"
+			(uuid "794ecd8a-fcba-4f39-8565-0d70f67465a2")
+		)
+		(instances
+			(project "kleinpad"
+				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
+					(reference "RC1-2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 30.48 71.12 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7af282ff-f2e9-402f-a726-b62a2863f52b")
+		(property "Reference" "#FLG02"
+			(at 30.48 73.025 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 30.48 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 30.48 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 30.48 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6434,7 +5920,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 49.53 77.47 0)
+			(at 30.48 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6456,7 +5942,7 @@
 	)
 	(symbol
 		(lib_id "Device:RotaryEncoder_Switch")
-		(at 116.84 63.5 0)
+		(at 119.38 35.56 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6464,8 +5950,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7c58cf5d-3f29-4ef5-9561-2b1cdbb8de6c")
-		(property "Reference" "SW1"
-			(at 116.84 53.34 0)
+		(property "Reference" "SW2"
+			(at 119.38 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6473,15 +5959,15 @@
 			)
 		)
 		(property "Value" "RotaryEncoder_Switch"
-			(at 116.84 55.88 0)
+			(at 119.38 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 113.03 59.436 0)
+		(property "Footprint" "Keebio-Parts.pretty-master:RotaryEncoder_EC11"
+			(at 115.57 31.496 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6490,7 +5976,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 116.84 56.896 0)
+			(at 119.38 28.956 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6499,7 +5985,7 @@
 			)
 		)
 		(property "Description" "Rotary encoder, dual channel, incremental quadrate outputs, with switch"
-			(at 116.84 63.5 0)
+			(at 119.38 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6525,7 +6011,98 @@
 		(instances
 			(project ""
 				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "SW1")
+					(reference "SW2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
+		(at 143.51 67.31 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8642f9b5-6e6d-4bfa-bc65-aee415a91820")
+		(property "Reference" "D2"
+			(at 140.97 66.675 90)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 140.97 69.215 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+			(at 143.51 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 143.51 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 143.51 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 143.51 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 143.51 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e446c779-684f-4242-bd79-f393f6726fb9")
+		)
+		(pin "2"
+			(uuid "8ba39e2d-8170-4a8b-9433-690f90250103")
+		)
+		(instances
+			(project "kleinpad"
+				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -6533,7 +6110,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 86.36 101.6 0)
+		(at 92.71 76.2 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6541,8 +6118,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "88187eb9-e7a9-4d1d-b736-1b5444cc7058")
-		(property "Reference" "#PWR014"
-			(at 86.36 107.95 0)
+		(property "Reference" "#PWR08"
+			(at 92.71 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6551,7 +6128,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 86.36 106.68 0)
+			(at 92.71 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6559,7 +6136,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 86.36 101.6 0)
+			(at 92.71 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6568,7 +6145,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 86.36 101.6 0)
+			(at 92.71 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6577,7 +6154,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 86.36 101.6 0)
+			(at 92.71 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6591,78 +6168,7 @@
 		(instances
 			(project "kleinpad"
 				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "#PWR014")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 223.52 100.33 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "91fd63ab-8e61-43ac-af2b-8f18864cbe6b")
-		(property "Reference" "RC3-7"
-			(at 223.52 93.98 0)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 223.52 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 223.52 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 223.52 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 223.52 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "680ca0a5-bf12-479f-8475-a49c10ed9800")
-		)
-		(pin "2"
-			(uuid "68698b77-f82c-4bcd-a6c6-86fb07da7656")
-		)
-		(instances
-			(project "kleinpad"
-				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "RC3-7")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -6670,96 +6176,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 242.57 87.63 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9b14a578-b499-4fc6-b044-69a9fa999479")
-		(property "Reference" "DI7"
-			(at 242.57 83.82 0)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 244.475 90.17 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "kbd:D3_TH_SMD_v2"
-			(at 242.57 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 242.57 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 242.57 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 242.57 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 242.57 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cf3266e0-e5b9-415d-ac2d-0fc26de5ecd8")
-		)
-		(pin "2"
-			(uuid "92397cb0-4f69-4061-b302-17e5f6a964ef")
-		)
-		(instances
-			(project "kleinpad"
-				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "DI7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148")
-		(at 177.8 83.82 90)
+		(at 204.47 67.31 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6767,9 +6184,9 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "9b8057aa-7bcd-4e22-b6bd-45fdef44aa11")
-		(property "Reference" "DS7"
-			(at 180.34 84.455 90)
+		(uuid "9f76fab3-fef4-48f5-be80-d8658b3755a1")
+		(property "Reference" "D8"
+			(at 201.93 66.675 90)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -6779,7 +6196,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 180.34 81.915 90)
+			(at 201.93 69.215 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6788,8 +6205,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "kbd:D3_TH_SMD_v2"
-			(at 177.8 83.82 0)
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+			(at 204.47 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6798,7 +6215,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 177.8 83.82 0)
+			(at 204.47 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6807,7 +6224,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 177.8 83.82 0)
+			(at 204.47 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6816,7 +6233,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 177.8 83.82 0)
+			(at 204.47 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6825,7 +6242,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 177.8 83.82 0)
+			(at 204.47 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6834,15 +6251,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "7ab6fc94-b665-4025-8d3e-5c58d0934629")
+			(uuid "48cc134c-7677-4c6d-ac97-94454c66378b")
 		)
 		(pin "2"
-			(uuid "79fa7fd1-a591-4b16-8e01-00a23c453375")
+			(uuid "f631d145-8309-4cae-ae00-9652fbc78bc8")
 		)
 		(instances
 			(project "kleinpad"
 				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "DS7")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -6850,7 +6267,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 109.22 63.5 270)
+		(at 111.76 35.56 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6858,8 +6275,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a5ff8efb-2fc5-47f2-8031-576ac7498f15")
-		(property "Reference" "#PWR012"
-			(at 102.87 63.5 0)
+		(property "Reference" "#PWR011"
+			(at 105.41 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6868,7 +6285,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 104.14 63.5 0)
+			(at 106.68 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6876,7 +6293,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 109.22 63.5 0)
+			(at 111.76 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6885,7 +6302,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 109.22 63.5 0)
+			(at 111.76 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6894,7 +6311,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 109.22 63.5 0)
+			(at 111.76 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6908,98 +6325,7 @@
 		(instances
 			(project "kleinpad"
 				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "#PWR012")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148")
-		(at 157.48 63.5 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "aab9b779-f66c-4a18-a436-59608303c64f")
-		(property "Reference" "DS6"
-			(at 160.02 64.135 90)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 160.02 61.595 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "kbd:D3_TH_SMD_v2"
-			(at 157.48 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 157.48 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 157.48 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 157.48 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 157.48 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a916f7a2-457f-4779-b3cb-bc853415fb95")
-		)
-		(pin "2"
-			(uuid "35970186-eead-4b70-87d7-a2d845372446")
-		)
-		(instances
-			(project "kleinpad"
-				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "DS6")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -7007,7 +6333,7 @@
 	)
 	(symbol
 		(lib_id "power:+BATT")
-		(at 58.42 74.93 0)
+		(at 39.37 68.58 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7015,8 +6341,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ac67c890-bece-4bb2-985d-3a08fcebe5b1")
-		(property "Reference" "#PWR08"
-			(at 58.42 78.74 0)
+		(property "Reference" "#PWR02"
+			(at 39.37 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7025,7 +6351,7 @@
 			)
 		)
 		(property "Value" "+BATT"
-			(at 58.42 69.85 0)
+			(at 39.37 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7033,7 +6359,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 58.42 74.93 0)
+			(at 39.37 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7042,7 +6368,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 58.42 74.93 0)
+			(at 39.37 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7051,7 +6377,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+BATT\""
-			(at 58.42 74.93 0)
+			(at 39.37 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7065,7 +6391,7 @@
 		(instances
 			(project "kleinpad"
 				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "#PWR08")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -7073,98 +6399,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 177.8 104.14 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b5cbd480-e894-4660-888e-378d449442bc")
-		(property "Reference" "D17"
-			(at 175.26 103.505 90)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 175.26 106.045 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "kbd:D3_TH_SMD_v2"
-			(at 177.8 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 177.8 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 177.8 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 177.8 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 177.8 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c91c1379-27a3-4159-802d-72ed9ba0fcf6")
-		)
-		(pin "2"
-			(uuid "3be34246-4e2a-48ff-9943-ec744f2838c3")
-		)
-		(instances
-			(project "kleinpad"
-				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "D17")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148")
-		(at 198.12 63.5 270)
+		(at 163.83 46.99 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7173,8 +6408,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b9174bd8-f21d-41fb-87ab-8a3b6ec827ec")
-		(property "Reference" "D26"
-			(at 195.58 62.865 90)
+		(property "Reference" "D3"
+			(at 161.29 46.355 90)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -7184,7 +6419,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 195.58 65.405 90)
+			(at 161.29 48.895 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7193,8 +6428,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "kbd:D3_TH_SMD_v2"
-			(at 198.12 63.5 0)
+		(property "Footprint" "kbd_Parts:Diode_TH_SMD"
+			(at 163.83 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7203,7 +6438,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 198.12 63.5 0)
+			(at 163.83 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7212,7 +6447,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 198.12 63.5 0)
+			(at 163.83 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7221,7 +6456,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 198.12 63.5 0)
+			(at 163.83 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7230,7 +6465,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 198.12 63.5 0)
+			(at 163.83 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7247,7 +6482,7 @@
 		(instances
 			(project "kleinpad"
 				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "D26")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -7263,7 +6498,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cb1e3f33-d0b7-4ac0-b240-2ec04ae8f52e")
-		(property "Reference" "SW2"
+		(property "Reference" "SW1"
 			(at 38.1 80.01 0)
 			(effects
 				(font
@@ -7279,7 +6514,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kbd_Parts:ResetSW"
 			(at 38.1 82.55 0)
 			(effects
 				(font
@@ -7315,7 +6550,7 @@
 		(instances
 			(project ""
 				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "SW2")
+					(reference "SW1")
 					(unit 1)
 				)
 			)
@@ -7323,7 +6558,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x05")
-		(at 39.37 104.14 0)
+		(at 66.04 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7332,7 +6567,7 @@
 		(fields_autoplaced yes)
 		(uuid "d4298f46-f431-4be9-85ef-7222aad94a49")
 		(property "Reference" "J2"
-			(at 41.91 102.8699 0)
+			(at 68.58 82.5499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7341,7 +6576,7 @@
 			)
 		)
 		(property "Value" "Conn_01x05"
-			(at 41.91 105.4099 0)
+			(at 68.58 85.0899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7349,8 +6584,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 39.37 104.14 0)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Horizontal"
+			(at 66.04 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7359,7 +6594,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 39.37 104.14 0)
+			(at 66.04 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7368,7 +6603,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 39.37 104.14 0)
+			(at 66.04 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7551,7 +6786,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 17.78 34.29 0)
+		(at 22.86 34.29 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7559,8 +6794,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f0f2c3fc-8a9a-4d41-b24b-b07814748526")
-		(property "Reference" "#PWR05"
-			(at 17.78 40.64 0)
+		(property "Reference" "#PWR01"
+			(at 22.86 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7569,7 +6804,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 17.78 39.37 0)
+			(at 22.86 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7577,7 +6812,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 17.78 34.29 0)
+			(at 22.86 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7586,7 +6821,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 17.78 34.29 0)
+			(at 22.86 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7595,7 +6830,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 17.78 34.29 0)
+			(at 22.86 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7609,7 +6844,7 @@
 		(instances
 			(project "kleinpad"
 				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "#PWR05")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -7617,7 +6852,7 @@
 	)
 	(symbol
 		(lib_id "kbd:OLED")
-		(at 105.41 96.52 0)
+		(at 111.76 71.12 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7626,7 +6861,7 @@
 		(fields_autoplaced yes)
 		(uuid "f54ee19a-f0de-43f8-bbab-052c58690d53")
 		(property "Reference" "OL1"
-			(at 121.92 94.615 0)
+			(at 128.27 69.215 0)
 			(effects
 				(font
 					(size 1.2954 1.2954)
@@ -7635,7 +6870,7 @@
 			)
 		)
 		(property "Value" "OLED"
-			(at 121.92 97.155 0)
+			(at 128.27 71.755 0)
 			(effects
 				(font
 					(size 1.1938 1.1938)
@@ -7643,8 +6878,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 105.41 93.98 0)
+		(property "Footprint" "kbd_Parts:OLED"
+			(at 111.76 68.58 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -7653,7 +6888,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 105.41 93.98 0)
+			(at 111.76 68.58 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -7662,7 +6897,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 105.41 96.52 0)
+			(at 111.76 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7693,7 +6928,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED_BGKR")
-		(at 113.03 33.02 0)
+		(at 240.03 39.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7701,8 +6936,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f741a710-ddbe-4aaf-a633-07e78b4a70be")
-		(property "Reference" "D1"
-			(at 113.03 19.05 0)
+		(property "Reference" "D9"
+			(at 240.03 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7710,15 +6945,15 @@
 			)
 		)
 		(property "Value" "LED_ABGR"
-			(at 113.03 21.59 0)
+			(at 240.03 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 113.03 34.29 0)
+		(property "Footprint" "LED_THT:LED_D5.0mm-4_RGB"
+			(at 240.03 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7727,7 +6962,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 113.03 34.29 0)
+			(at 240.03 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7736,7 +6971,7 @@
 			)
 		)
 		(property "Description" "RGB LED, blue/green/cathode/red"
-			(at 113.03 33.02 0)
+			(at 240.03 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7759,98 +6994,7 @@
 		(instances
 			(project ""
 				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "D1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148")
-		(at 218.44 104.14 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fa832fe1-49a8-462c-b63a-3a6cb3eada69")
-		(property "Reference" "D38"
-			(at 215.9 103.505 90)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 215.9 106.045 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "kbd:D3_TH_SMD_v2"
-			(at 218.44 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 218.44 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 218.44 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 218.44 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 218.44 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "53e0e960-6dd9-4eaf-ad92-d54b5da82e7f")
-		)
-		(pin "2"
-			(uuid "bd514b44-bdbe-4bbf-ab5a-8bc4f79bffe6")
-		)
-		(instances
-			(project "kleinpad"
-				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
-					(reference "D38")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -7858,7 +7002,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 49.53 74.93 0)
+		(at 30.48 68.58 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7867,7 +7011,7 @@
 		(fields_autoplaced yes)
 		(uuid "fb9abc9a-91b4-4190-ab79-efaad4c4105d")
 		(property "Reference" "#FLG01"
-			(at 49.53 73.025 0)
+			(at 30.48 66.675 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7876,7 +7020,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 49.53 69.85 0)
+			(at 30.48 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7884,7 +7028,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 49.53 74.93 0)
+			(at 30.48 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7893,7 +7037,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 49.53 74.93 0)
+			(at 30.48 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7902,7 +7046,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 49.53 74.93 0)
+			(at 30.48 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
