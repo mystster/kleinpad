@@ -12260,7 +12260,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "Kleinpad v1.0   PCB Design by @mystster"
+	(gr_text "Kleinpad v1.1   PCB Design by @mystster"
 		(at 179.125625 95.3755 90)
 		(layer "F.SilkS")
 		(uuid "10bc42e7-de8c-478e-ba50-61d950156ae7")
