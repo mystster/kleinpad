@@ -1023,6 +1023,130 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:R"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 2.032 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "R"
+				(at 0 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at -1.778 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "R res resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "R_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "R_0_1"
+				(rectangle
+					(start -1.016 -2.54)
+					(end 1.016 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:RotaryEncoder_Switch"
 			(pin_names
 				(offset 0.254)
@@ -3735,6 +3859,16 @@
 	)
 	(wire
 		(pts
+			(xy 252.73 39.37) (xy 248.92 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30b5205a-a001-41c9-b6de-366cbd600e7f")
+	)
+	(wire
+		(pts
 			(xy 26.67 73.66) (xy 35.56 73.66)
 		)
 		(stroke
@@ -3762,6 +3896,16 @@
 			(type default)
 		)
 		(uuid "39678ce9-98fb-4dcd-8b5b-78bd4fe196a4")
+	)
+	(wire
+		(pts
+			(xy 241.3 44.45) (xy 234.95 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "422434ad-cbd4-4f52-b2c2-761804a297be")
 	)
 	(wire
 		(pts
@@ -3852,6 +3996,16 @@
 			(type default)
 		)
 		(uuid "6ae568af-80b9-4ec8-a864-7664c9292521")
+	)
+	(wire
+		(pts
+			(xy 252.73 34.29) (xy 248.92 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ba98921-088c-46db-9c1d-4d42e40176a3")
 	)
 	(wire
 		(pts
@@ -3995,6 +4149,26 @@
 	)
 	(wire
 		(pts
+			(xy 241.3 34.29) (xy 234.95 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8170075-ffaa-4bda-85a6-de1f2cd9a476")
+	)
+	(wire
+		(pts
+			(xy 241.3 39.37) (xy 234.95 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca9dedcd-e9e9-40f9-9b50-ed36c1519bc4")
+	)
+	(wire
+		(pts
 			(xy 121.92 93.98) (xy 118.11 93.98)
 		)
 		(stroke
@@ -4062,6 +4236,16 @@
 			(type default)
 		)
 		(uuid "ed965a8b-5866-49e4-a1be-a9faaf799fb3")
+	)
+	(wire
+		(pts
+			(xy 252.73 44.45) (xy 248.92 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f0b1fd06-6184-4c64-bb0e-b55527b98eb0")
 	)
 	(wire
 		(pts
@@ -4227,7 +4411,7 @@
 	)
 	(global_label "3V3"
 		(shape input)
-		(at 245.11 39.37 0)
+		(at 262.89 39.37 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4237,7 +4421,7 @@
 		)
 		(uuid "3a10a629-9a1c-4866-a091-51ff274c64e2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 251.6028 39.37 0)
+			(at 269.3828 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6592,6 +6776,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 245.11 34.29 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "46d79218-cbeb-4c47-8634-abcdc4ad21c6")
+		(property "Reference" "R1"
+			(at 245.11 32.258 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100"
+			(at 245.11 34.29 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Keebio-Parts.pretty-master:Resistor-Compact-1-side"
+			(at 245.11 36.068 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 245.11 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 245.11 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "1d72c55f-8bee-4436-a376-bf261b159aaa")
+		)
+		(pin "1"
+			(uuid "d9fa5d6e-73c2-453a-a6ad-b3e37359f430")
+		)
+		(instances
+			(project ""
+				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
+					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 106.68 29.21 0)
 		(unit 1)
@@ -8720,6 +8971,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 245.11 44.45 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d3fcfa69-231b-459c-9676-c2758d6b6362")
+		(property "Reference" "R3"
+			(at 245.11 42.164 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "22"
+			(at 245.11 44.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Keebio-Parts.pretty-master:Resistor-Compact-1-side"
+			(at 245.11 46.228 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 245.11 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 245.11 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "1d72c55f-8bee-4436-a376-bf261b159aaa")
+		)
+		(pin "1"
+			(uuid "d9fa5d6e-73c2-453a-a6ad-b3e37359f430")
+		)
+		(instances
+			(project ""
+				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
+					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector_Generic:Conn_01x05")
 		(at 69.85 69.85 0)
 		(unit 1)
@@ -8948,6 +9266,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 245.11 39.37 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ea11e715-0470-4585-affc-09d9f27e600b")
+		(property "Reference" "R2"
+			(at 245.11 37.338 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "22"
+			(at 245.11 39.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Keebio-Parts.pretty-master:Resistor-Compact-1-side"
+			(at 245.11 41.148 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 245.11 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 245.11 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "1d72c55f-8bee-4436-a376-bf261b159aaa")
+		)
+		(pin "1"
+			(uuid "d9fa5d6e-73c2-453a-a6ad-b3e37359f430")
+		)
+		(instances
+			(project ""
+				(path "/6d013a8f-abbb-4d4f-81a8-d46d972088d5"
+					(reference "R2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 22.86 34.29 0)
 		(unit 1)
@@ -9091,7 +9476,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED_ABGR")
-		(at 240.03 39.37 0)
+		(at 257.81 39.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9100,7 +9485,7 @@
 		(fields_autoplaced yes)
 		(uuid "f741a710-ddbe-4aaf-a633-07e78b4a70be")
 		(property "Reference" "LED1"
-			(at 240.03 25.4 0)
+			(at 257.81 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9108,7 +9493,7 @@
 			)
 		)
 		(property "Value" "LED_ABGR"
-			(at 240.03 27.94 0)
+			(at 257.81 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9116,7 +9501,7 @@
 			)
 		)
 		(property "Footprint" "myLibrary:LED Rectangle(OSTBMAZ2C1D)"
-			(at 240.03 40.64 0)
+			(at 257.81 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9125,7 +9510,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 240.03 40.64 0)
+			(at 257.81 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9134,7 +9519,7 @@
 			)
 		)
 		(property "Description" "RGB LED, anode/blue/green/red"
-			(at 240.03 39.37 0)
+			(at 257.81 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
