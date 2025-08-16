@@ -10591,7 +10591,7 @@
 	(footprint "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal"
 		(layer "B.Cu")
 		(uuid "2654622b-ebf1-425d-977e-24650d4f0ff3")
-		(at 139.5 70.4755)
+		(at 139.5 69.95)
 		(descr "JST PH series connector, S2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST PH top entry")
 		(property "Reference" "J1"
@@ -11104,7 +11104,7 @@
 		(uuid "33ada22f-66af-4dca-accd-976ad7e6717b")
 		(at 153.5 75.4 -90)
 		(property "Reference" "R2"
-			(at 0 -1.5 -90)
+			(at 0 -1.5 270)
 			(layer "B.SilkS")
 			(uuid "67404921-09e5-4d50-b0b3-d2f70ed7129d")
 			(effects
@@ -11626,7 +11626,7 @@
 		(uuid "cdab669b-c832-4100-ad78-b95b239c54a3")
 		(at 160 71.5 180)
 		(property "Reference" "R3"
-			(at 0 -1.5 -0)
+			(at 0 -1.5 0)
 			(layer "B.SilkS")
 			(uuid "0b2fea54-3b06-4b42-a6a9-5648fe1a8f5c")
 			(effects
@@ -12790,14 +12790,6 @@
 		(uuid "179b6b31-913d-49ad-851e-bbf2145ff829")
 	)
 	(segment
-		(start 146.6545 68.8455)
-		(end 145.0245 70.4755)
-		(width 0.5)
-		(layer "F.Cu")
-		(net 2)
-		(uuid "2cc0f4fd-04ad-4503-9beb-c8e94f1df14f")
-	)
-	(segment
 		(start 172.825625 87.8755)
 		(end 171.725625 86.7755)
 		(width 0.5)
@@ -12846,12 +12838,12 @@
 		(uuid "63763bc2-14ca-43ea-8878-541cee24b80e")
 	)
 	(segment
-		(start 145.0245 70.4755)
-		(end 141.5 70.4755)
+		(start 141.5 69.95)
+		(end 147.241125 69.95)
 		(width 0.5)
 		(layer "F.Cu")
 		(net 2)
-		(uuid "7a854f2f-9e4b-4b1e-b7cc-4f57724ec627")
+		(uuid "72f647c8-7a92-4456-b76e-0f3dca3d0803")
 	)
 	(segment
 		(start 149.615625 67.5755)
@@ -12876,6 +12868,14 @@
 		(layer "F.Cu")
 		(net 2)
 		(uuid "903067ea-1735-4357-b12c-0257c7224c5c")
+	)
+	(segment
+		(start 147.241125 69.95)
+		(end 148.345625 68.8455)
+		(width 0.5)
+		(layer "F.Cu")
+		(net 2)
+		(uuid "9e40e1cb-b73f-4364-9210-fdae4a0b7b09")
 	)
 	(segment
 		(start 148.345625 68.8455)
@@ -12964,14 +12964,6 @@
 		(layer "F.Cu")
 		(net 2)
 		(uuid "f1e1508c-da30-4328-926c-258d8388dfd3")
-	)
-	(segment
-		(start 148.345625 68.8455)
-		(end 146.6545 68.8455)
-		(width 0.5)
-		(layer "F.Cu")
-		(net 2)
-		(uuid "ff816714-fa41-45b1-8eda-524b2ce57924")
 	)
 	(segment
 		(start 153.625625 82.1255)
@@ -13926,20 +13918,20 @@
 		(uuid "abaf2193-6766-492b-af2e-7b3c87642352")
 	)
 	(segment
-		(start 143.67 66.3055)
-		(end 139.5 70.4755)
+		(start 143.1445 66.3055)
+		(end 139.5 69.95)
 		(width 0.5)
 		(layer "F.Cu")
 		(net 17)
-		(uuid "7168136d-8f1d-4ee6-968f-dab602ed2aa5")
+		(uuid "8482fa67-55fb-442b-8f50-1f61baa03109")
 	)
 	(segment
 		(start 148.345625 66.3055)
-		(end 143.67 66.3055)
+		(end 143.1445 66.3055)
 		(width 0.5)
 		(layer "F.Cu")
 		(net 17)
-		(uuid "e6480886-6db8-4d95-b971-d2a49f10a4f0")
+		(uuid "e4c62200-0ad1-4ed1-91a7-72456b14c7bc")
 	)
 	(segment
 		(start 116.985625 72.4755)
