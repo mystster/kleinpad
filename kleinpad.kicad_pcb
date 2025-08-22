@@ -3834,6 +3834,17 @@
 			(uuid "b86acc55-c564-497c-9d04-010907d1b144")
 		)
 		(embedded_fonts no)
+		(model "D:/kicad/kbd-3-final/kicad-packages3D/kbd.3dshapes/MX Series-Cherry Key.step"
+			(offset
+				(xyz 7.3 7.5 6)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 -180 -0)
+			)
+		)
 	)
 	(footprint "kbd_Parts:Diode_TH_SMD"
 		(layer "F.Cu")
@@ -12401,6 +12412,19 @@
 			(font
 				(size 1 1)
 				(thickness 0.16)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "JLCJLCJLCJLC"
+		(at 123.8 63.8 0)
+		(layer "B.SilkS")
+		(uuid "3ff3876a-4648-4c3e-8167-4c5c1a504b91")
+		(effects
+			(font
+				(size 0.8 1)
+				(thickness 0.15)
+				(bold yes)
 			)
 			(justify left bottom mirror)
 		)
